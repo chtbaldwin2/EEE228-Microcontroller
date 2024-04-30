@@ -1,5 +1,6 @@
 /* mbed Microcontroller Library
  * Copyright (c) 2019 ARM Limited
+ * Written by C. Baldwin, 2022
  * SPDX-License-Identifier: Apache-2.0
  */
 
